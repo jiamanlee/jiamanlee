@@ -2,10 +2,10 @@
 
 ### About Me 
 #### (Lastest Update: March 2024)
-* Data Analyst/Engineer
+* 3+ years Data Analyst/Engineer
 * MS in Applied Analytics at Columbia University
 * BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
-* Certificated Google Advanced Data Analyst![👩🏻‍💻](https://www.coursera.org/account/accomplishments/specialization/4VQHUU4FSNFN)
+* Certificated Google Advanced Data Analyst
 
 ### Skills
 * Languages: Python, SQL, R
