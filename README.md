@@ -20,7 +20,8 @@
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling
 
 ### Fun Facts
-* I have a 2-year-old ragdoll called Sammy, and I want to have another future pet named Collins. Sammy + Collins = Semicolon
+* I have a 2-year-old ragdoll called Sammy, and I want to have another future pet named Collins.
+* Sammy + Collins = Semicolon
 
 ### How to Reach Me
 * Welcome to visit my homepage (including downloadable resume and projects)[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site-1)
