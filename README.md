@@ -23,5 +23,6 @@
 * I have a 2-year-old ragdoll called Sammy, and I want to have another future pet named Collins. Sammy + Collins = Semicolon
 
 ### How to Reach Me
-* Welcome to visit my homepage (including downloadable resume and projects)![🌐](https://jl5744.wixsite.com/my-site-1)
-* Get connected on LinkedIn! ![LinkedIn](https://www.linkedin.com/in/jiaman-li/)
+* Welcome to visit my homepage (including downloadable resume and projects)[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site-1)
+* Get connected on LinkedIn! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
+
