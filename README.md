@@ -2,10 +2,10 @@
 
 ### About Me 
 #### (Lastest Update: March 2024)
-* 3+ years Data Analyst/Engineer
+* 3+ years Data Analyst, future AI Project Manager!
 * MS in Applied Analytics at Columbia University
 * BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
-* Certificated Google Advanced Data Analyst
+* Certificated Google Advanced Data Analyst & Google Data Analyst
 
 ### Skills
 * Languages: Python, SQL, R
@@ -20,10 +20,10 @@
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling
 
 ### Fun Facts
-* I have a 2-year-old ragdoll called Sammy, and I want to have another future pet named Collins.
+* I have a 3-year-old ragdoll called Sammy, and I want to have another future pet named Collins.
 * Sammy + Collins = Semicolon
 
 ### How to Reach Me
-* Welcome to visit my homepage (including downloadable resume and projects)[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site-1)
+* Welcome to visit my homepage (including downloadable resume and projects)[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site)
 * Get connected on LinkedIn! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
 
