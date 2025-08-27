@@ -2,7 +2,7 @@
 
 ### About Me 
 #### (Lastest Update: March 2024)
-* 2+ years Data Analyst, future AI Project Manager!
+* 2+ years Data Analyst, future product Manager!
 * MS in Applied Analytics at Columbia University
 * BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
 * Certificated Google Advanced Data Analyst & Google Data Analyst
