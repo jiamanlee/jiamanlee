@@ -1,8 +1,8 @@
 ### Hi there, I'm Jiaman Li (Lee).👋
 
 ### About Me 
-#### (Lastest Update: March 2024)
-* 2+ years Data Analyst, future product manager!
+#### (Latest Update: March 2024)
+* 3+ years Business & Data Analyst, future product manager!
 * MS in Applied Analytics at Columbia University
 * BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
 * Certificated Google Advanced Data Analyst & Google Data Analyst
