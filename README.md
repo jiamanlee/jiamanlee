@@ -1,7 +1,7 @@
 ### Hi there, I'm Jiaman Li (Lee).👋
 
 ### About Me 
-#### (Latest Update: March 2024)
+#### (Latest Update: Sep 2025)
 * 3+ years Business & Data Analyst, future Product Manager!
 * MS in Applied Analytics at Columbia University
 * BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
@@ -16,11 +16,16 @@
 * Project Management/Collaboration: Trello, Monday.com, Agile methodologies
 * Other Skills: Microsoft Suite (Word, Excel, PowerPoint, Outlook), VSCode, Jupyter Lab, RStudio, Colab, Monday.com, A/B Testing
 
+### Portfolios
+* 2024 Hotel Revenue Intelligence Dashboard [![GitHub](https://github.com/jiamanlee/2024_Hotel_Revenue_Intelligence_Dashboard))]
+* 2025 WTD Analytics and Trend Tracker Dashboard [![GitHub](https://github.com/jiamanlee/2025_WTD_Analytics_and_Trend_Tracker_Dashboard))]
+* 2025 Top of Funnel Spend Optimization MMM Case [![GitHub](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case))]
+
 ### Hobbies & Interests
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling
 
 ### Fun Facts
-* I have a 3-year-old ragdoll called Sammy, and I want to have another future pet named Collins.
+* I have a 4-year-old ragdoll called Sammy, and I want to have another future pet named Collins.
 * Sammy + Collins = Semicolon
 
 ### How to Reach Me
