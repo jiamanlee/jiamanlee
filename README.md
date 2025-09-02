@@ -15,11 +15,11 @@
 * Statistical/Machine Learning: regression (linear, logistic), Naive Bayes, decision trees, random forest, AdaBoost, XGBoost
 * Project Management/Collaboration: Trello, Monday.com, Agile methodologies
 * Other Skills: Microsoft Suite (Word, Excel, PowerPoint, Outlook), VSCode, Jupyter Lab, RStudio, Colab, Monday.com, A/B Testing
-
+* 
 ### Portfolios
-* 2024 Hotel Revenue Intelligence Dashboard [![Website](https://github.com/jiamanlee/2024_Hotel_Revenue_Intelligence_Dashboard))]
-* 2025 WTD Analytics and Trend Tracker Dashboard [![Website](https://github.com/jiamanlee/2025_WTD_Analytics_and_Trend_Tracker_Dashboard))]
-* 2025 Top of Funnel Spend Optimization MMM Case [![Website](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case))]
+- [2024 Hotel Revenue Intelligence Dashboard](https://github.com/jiamanlee/2024_Hotel_Revenue_Intelligence_Dashboard)
+- [2025 WTD Analytics & Trend Tracker Dashboard](https://github.com/jiamanlee/2025_WTD_Analytics_and_Trend_Tracker_Dashboard)
+- [2025 Top-of-Funnel Spend Optimization — MMM Case](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case)
 
 ### Hobbies & Interests
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling
