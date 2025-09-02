@@ -2,7 +2,7 @@
 
 ### About Me 
 #### (Latest Update: March 2024)
-* 3+ years Business & Data Analyst, future product manager!
+* 3+ years Business & Data Analyst, future Product Manager!
 * MS in Applied Analytics at Columbia University
 * BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
 * Certificated Google Advanced Data Analyst & Google Data Analyst
