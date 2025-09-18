@@ -20,9 +20,9 @@
 - [2024 Hotel Revenue Intelligence Dashboard](https://github.com/jiamanlee/2024_Hotel_Revenue_Intelligence_Dashboard)  
   *(Python · Excel · Power BI · KPI Dashboards · Revenue Analysis)*
 - [2025 WTD Analytics & Trend Tracker Dashboard](https://github.com/jiamanlee/2025_WTD_Analytics_and_Trend_Tracker_Dashboard)  
-  *(SQL · Python · Power BI · Forecasting · Booking Trends · Data Visualization)*
+  *(SQL · Python · Power BI · PowerPoint · Forecasting · Booking Trends · Data Visualization)*
 - [2025 Top-of-Funnel Spend Optimization — MMM Case](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case)  
-  *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting)*
+  *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
 
 ### Hobbies & Interests
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling
