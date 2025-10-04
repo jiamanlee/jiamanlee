@@ -1,4 +1,4 @@
-### Hi there, I'm Jiaman Li (Lee).👋
+### Hi there, I'm Jiaman (Lee) Li.👋
 
 ### About Me 
 #### (Latest Update: Sep 2025)
