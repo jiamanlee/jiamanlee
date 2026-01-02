@@ -24,7 +24,7 @@
 - [2025 Top-of-Funnel Spend Optimization — MMM Case](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case)  
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
 
-### SQL & Python Algorithm Practice
+### Algorithm & SQL Practice
 
 <p align="left">
   <a href="https://leetcode.com/u/cGB01QPiTI/">
