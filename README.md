@@ -30,7 +30,6 @@
 <p>
   <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?ext=heatmap&width=540&height=150&border=0" />
 </p>
-
 - 180+ problems solved, focus on SQL & Pandas  
 - Emphasis on analytical problem solving & data pipelines
 
