@@ -3,7 +3,7 @@
 ### About Me 
 * **3+ years Product & Data Analyst** → aspiring **Product Manager**
 * **MS in Applied Analytics**, Columbia University
-* **BS in Marketing (Marketing Analytics track)**, Pennsylvania State University
+* **BS in Marketing, Marketing Analytics focus**, Pennsylvania State University
 * **Google Advanced Data Analyst** & **Google Data Analyst** (Certified)
 
 ### Skills
@@ -36,7 +36,6 @@
 
 - **180+** problems solved, focus on **SQL & Pandas**
 - Emphasis on analytical problem solving & data pipelines
-
 
 ### Hobbies & Interests
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling.
