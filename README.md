@@ -22,16 +22,20 @@
   *(SQL · Python · Power BI · PowerPoint · Forecasting · Booking Trends · Data Visualization)*
 - [2025 Top-of-Funnel Spend Optimization — MMM Case](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case)  
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
-
+  
 ### Algorithm & SQL Practice
 
 <p align="left">
   <a href="https://leetcode.com/u/cGB01QPiTI/">
-    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&ext=heatmap&width=380&height=130&hide=ranking&border=0" />
+    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&width=300&height=120&hide=ranking&border=0" />
   </a>
 </p>
 
-- 180+ problems solved, focus on SQL & Pandas
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&ext=heatmap&width=520&height=140&hide=ranking&border=0" />
+</p>
+
+- 180+ problems solved, focus on SQL & Pandas  
 - Emphasis on analytical problem solving & data pipelines
 
 ### Hobbies & Interests
