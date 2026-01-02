@@ -35,6 +35,6 @@
 * Welcome to visit my homepage (including downloadable resume and projects)[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site)
 * Get connected on LinkedIn! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
   
-* ### Algorithm & SQL Practice
+### SQL & Python Algorithm Practice
 [![LeetCode Stats](https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/cGB01QPiTI/)
 
