@@ -26,7 +26,7 @@
 ### Algorithm & SQL Practice
 <p>
   <a href="https://leetcode.com/u/cGB01QPiTI/">
-    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&hide=ranking&border=0&width=260&height=110" />
+    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&width=260&height=110&hide=ranking&border=0" />
   </a>
 </p>
 
