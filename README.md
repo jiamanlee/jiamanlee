@@ -24,15 +24,15 @@
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
 
 ### Algorithm & SQL Practice
-<p>
+<!-- <p>
   <a href="https://leetcode.com/u/cGB01QPiTI/">
     <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter" />
   </a>
-</p>
+</p> -->
 
 <p>
   <a href="https://leetcode.com/u/cGB01QPiTI/">
-    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&ext=heatmap&border=0&width=620&height=160" />
+    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&ext=heatmap&width=620&height=160" />
   </a>
 </p>
 
