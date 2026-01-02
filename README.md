@@ -27,9 +27,13 @@
 <p>
   <a href="https://leetcode.com/u/cGB01QPiTI/">
     <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&width=260&height=110&hide=ranking&border=0" />
+  </a>
+</p>
+
+<p>
+  <a href="https://leetcode.com/u/cGB01QPiTI/">
     <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&ext=heatmap&border=0&width=620&height=160" />
   </a>
-
 </p>
 
 - **180+** problems solved, focus on **SQL & Pandas**
