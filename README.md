@@ -23,19 +23,6 @@
 - [2025 Top-of-Funnel Spend Optimization — MMM Case](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case)  
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
   
-### Algorithm & SQL Practice
-<p>
-  <a href="https://leetcode.com/u/cGB01QPiTI/">
-    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&hide=ranking&border=0&width=260&height=120" />
-  </a>
-</p>
-
-<p>
-  <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&ext=heatmap&border=0&width=620&height=160" />
-</p>
-
-- **180+** problems solved, focus on **SQL & Pandas**
-- Emphasis on analytical problem solving & data pipelines
 
 ### Hobbies & Interests
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling.
