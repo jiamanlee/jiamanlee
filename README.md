@@ -4,7 +4,7 @@
 * **3+ years Product & Data Analyst** → aspiring **Product Manager**
 * **MS in Applied Analytics**, Columbia University
 * **BS in Marketing, Marketing Analytics focus**, Pennsylvania State University
-* **Google Advanced Data Analyst** & **Google Data Analyst** (Certified)
+* Google Advanced Data Analyst & Google Data Analyst (Certified)
 
 ### Skills
 - **Languages:** Python, SQL, R  
