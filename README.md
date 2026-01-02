@@ -8,13 +8,13 @@
 * Certificated Google Advanced Data Analyst & Google Data Analyst
 
 ### Skills
-* Languages: Python, SQL, R
-* Libraries: numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn, ggplot2, tidyverse (dplyr, tidyr, readr), caret
-* Database/Cloud Services: SSMS, MySQL Workbench, PgAdmin, BigQuery, Elasticsearch, MongoDB, AWS, PySpark
-* Data Visualization: Power BI, Tableau, Metabase
-* Statistical/Machine Learning: regression (linear, logistic), Naive Bayes, decision trees, random forest, AdaBoost, XGBoost
-* Project Management/Collaboration: Trello, Monday.com, Agile methodologies
-* Other Skills: Microsoft Suite (Word, Excel, PowerPoint, Outlook), VSCode, Jupyter Lab, RStudio, Colab, Monday.com, A/B Testing
+- **Languages:** Python, SQL, R  
+- **Data & Analytics:** Pandas, NumPy, SciPy, statsmodels, scikit-learn, PySpark  
+- **Databases & Cloud:** MySQL, PostgreSQL, BigQuery, MongoDB, Elasticsearch, AWS  
+- **Data Visualization & BI:** Power BI, Tableau, Metabase  
+- **Machine Learning:** Regression, Tree-based Models, Boosting (XGBoost, AdaBoost)  
+- **Experimentation:** A/B Testing, Statistical Inference  
+- **Product & Collaboration:** Agile, Trello, Monday.com
   
 ### Portfolios
 - [2024 Hotel Revenue Intelligence Dashboard](https://github.com/jiamanlee/2024_Hotel_Revenue_Intelligence_Dashboard)  
