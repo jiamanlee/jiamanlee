@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/cGB01QPiTI/">
-    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&width=380&height=170&hide=ranking&border=0" />
+    <img src="[https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&width=380&height=170&hide=ranking&border=0](https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&ext=heatmap&width=380&height=130&hide=ranking&border=0)" />
   </a>
 </p>
 
