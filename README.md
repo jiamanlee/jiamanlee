@@ -1,10 +1,10 @@
 ### Hi there, I'm Jiaman (Lee) Li.👋
 
 ### About Me 
-* 3+ years Product & Data Analyst, future Product Manager!
-* MS in Applied Analytics at Columbia University
-* BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
-* Certificated Google Advanced Data Analyst & Google Data Analyst
+* **3+ years Product & Data Analyst** → aspiring **Product Manager**
+* **MS in Applied Analytics**, Columbia University
+* **BS in Marketing (Marketing Analytics track)**, Pennsylvania State University
+* **Google Advanced Data Analyst** & **Google Data Analyst** (Certified)
 
 ### Skills
 - **Languages:** Python, SQL, R  
@@ -24,18 +24,20 @@
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
   
 ### Algorithm & SQL Practice
-<p align="left">
+
+<p>
   <a href="https://leetcode.com/u/cGB01QPiTI/">
-    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=Inter&width=300&height=120&hide=ranking&border=0" />
+    <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&hide=ranking&border=0&width=260&height=110" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&ext=heatmap&width=520&height=140&hide=ranking&border=0" />
+<p>
+  <img src="https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&ext=heatmap&border=0&width=620&height=160" />
 </p>
 
-- 180+ problems solved, focus on SQL & Pandas  
+- **180+** problems solved, focus on **SQL & Pandas**
 - Emphasis on analytical problem solving & data pipelines
+
 
 ### Hobbies & Interests
 * I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling.
