@@ -1,7 +1,7 @@
 ### Hi there, I'm Jiaman (Lee) Li.👋
 
 ### About Me 
-#### (Latest Update: Sep 2025)
+#### (Latest Update: Jan 1st 2026)
 * 3+ years Business & Data Analyst, future Product Manager!
 * MS in Applied Analytics at Columbia University
 * BS in Marketing (Marketing Analytics track) at Pennsylvania State University Park
