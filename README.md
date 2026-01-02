@@ -25,7 +25,7 @@
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
 
 ### Hobbies & Interests
-* I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling
+* I love art (painting🎨, singing🎤, and photographing📷) and enjoy innovative design as well as hiking and traveling.
 
 ### Fun Facts
 * I have a 4-year-old ragdoll called Sammy, and I want to have another future pet named Collins.
@@ -34,4 +34,7 @@
 ### How to Reach Me
 * Welcome to visit my homepage (including downloadable resume and projects)[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site)
 * Get connected on LinkedIn! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
+  
+* ### Algorithm & SQL Practice
+[![LeetCode Stats](https://leetcard.jacoblin.cool/cGB01QPiTI?theme=light&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/cGB01QPiTI/)
 
