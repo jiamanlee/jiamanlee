@@ -1,7 +1,7 @@
 ### Hi there, I'm Jiaman (Lee) Li.👋
 
 ### About Me 
-* **3+ years Product & Data Analyst** → aspiring **Product Manager**
+* **3+ years Product & Data Analyst**
 * **MS in Applied Analytics**, Columbia University
 * **BS in Marketing, Marketing Analytics focus**, Pennsylvania State University
 * Google Advanced Data Analyst & Google Data Analyst (Certified)
