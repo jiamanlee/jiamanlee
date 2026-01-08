@@ -3,7 +3,7 @@
 ### About Me 
 * **3+ years Product & Data Analyst**
 * **MS in Applied Analytics**, Columbia University
-* **BS in Marketing**, Marketing Analytics, Pennsylvania State University
+* **BS in Marketing**, Marketing Analytics, Pennsylvania State University - University Park
 * Google Advanced Data Analyst & Google Data Analyst [Certified](https://www.coursera.org/user/c51376953f1ce752955d686fdc81aecc)
 
 ### Skills
