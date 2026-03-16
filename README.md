@@ -69,8 +69,10 @@ Agile · Trello · Monday.com
 
 ### Interests
 
-Art & design (painting, singing, photography) · hiking · traveling  
-Cat person — raising a ragdoll named **Sammy**
+🎨 Art & Design — painting, singing, photography  
+🥾 Hiking & outdoor exploration  
+✈️ Traveling and discovering new cultures  
+🐱 Cat person — raising a ragdoll named **Sammy**
 
 ---
 
