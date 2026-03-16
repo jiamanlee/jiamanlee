@@ -43,6 +43,9 @@
 ### How to Reach Me
 * Welcome to visit my **Homepage** (including career path reflection and projects)[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site)
 * Get connected on **LinkedIn**! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
+
+### Resume
+[Resume](https://docs.google.com/document/d/1t3STLmNfHkiKTXXvnsPePgBZ_cu-WaF3Pzz0LSh7ZUM/edit?usp=sharing)
   
 
 #### (Latest Update: Jan 1st 2026)
