@@ -23,7 +23,7 @@
 - [2025 Top-of-Funnel Spend Optimization — MMM Case](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case)  
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
 - [2026 AI Business Insight Generator](https://github.com/jiamanlee/2026_AI_Business_Insight_Generator)  
-  *(Python · Streamlit · LLM · KPI Analysis · Business Diagnostics · AI Insights)*
+  *(Python · Streamlit · LLM · KPI Analysis · Business Diagnostics · Strategic Insights)*
   
   
 ### Algorithm & SQL Practice
