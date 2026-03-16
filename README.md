@@ -22,6 +22,9 @@
   *(SQL · Python · Power BI · PowerPoint · Forecasting · Booking Trends · Data Visualization)*
 - [2025 Top-of-Funnel Spend Optimization — MMM Case](https://github.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case)  
   *(Excel · Marketing Mix Modeling · ROI Analysis · Regression · Revenue Forecasting · PowerPoint)*
+- [2026 AI Business Insight Generator](https://github.com/jiamanlee/2026_AI_Business_Insight_Generator)  
+  *(Python · Streamlit · LLM · KPI Analysis · Business Diagnostics · AI Insights)*
+  
   
 ### Algorithm & SQL Practice
 <p>
