@@ -76,15 +76,15 @@ Cat person — raising a ragdoll named **Sammy**
 
 ### Connect With Me
 
+### Connect With Me
+
 Website  
-[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://jl5744.wixsite.com/my-site)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat-square)](https://jl5744.wixsite.com/my-site)
 
 LinkedIn  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
 
 Resume  
-[Google Doc](https://docs.google.com/document/d/1t3STLmNfHkiKTXXvnsPePgBZ_cu-WaF3Pzz0LSh7ZUM/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Google%20Doc-green?style=flat-square)](https://docs.google.com/document/d/1t3STLmNfHkiKTXXvnsPePgBZ_cu-WaF3Pzz0LSh7ZUM/edit?usp=sharing)
 
----
-
-*(Latest update: Jan 2026)*
+*(Latest update: Mar 2026)*
