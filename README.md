@@ -60,16 +60,6 @@ Product & Data Analyst (3+ yrs) building data-driven products and AI-assisted an
 
 ---
 
-### Interests
-
-- 🎨 **Art & Design** — painting, singing, photography  
-- 🏔 **Outdoor Exploration** — hiking, biking, diving  
-- ✈️ **Travel** — exploring different cultures  
-- 🐱 **Cat Person** — raising a ragdoll named **Sammy**
-
-
----
-
 ### Connect With Me
 
 Website  
