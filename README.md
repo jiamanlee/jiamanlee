@@ -22,26 +22,19 @@ Product & Data Analyst (3+ yrs) building data-driven products and AI-assisted an
 
 ### Skills
 
-**Languages**  
-Python · SQL · R  
+**Languages**  Python · SQL · R  
 
-**Data & Analytics**  
-Pandas · NumPy · SciPy · statsmodels · scikit-learn · PySpark  
+**Data & Analytics**  Pandas · NumPy · SciPy · statsmodels · scikit-learn · PySpark  
 
-**Databases & Cloud**  
-MySQL · PostgreSQL · BigQuery · MongoDB · Elasticsearch · AWS  
+**Databases & Cloud**  MySQL · PostgreSQL · BigQuery · MongoDB · Elasticsearch · AWS  
 
-**Data Visualization & BI**  
-Power BI · Tableau · Metabase  
+**Data Visualization & BI**  Power BI · Tableau · Metabase  
 
-**Machine Learning**  
-Regression · Tree-based Models · Boosting (XGBoost, AdaBoost)  
+**Machine Learning**  Regression · Tree-based Models · Boosting (XGBoost, AdaBoost)  
 
-**Experimentation**  
-A/B Testing · Statistical Inference  
+**Experimentation**  A/B Testing · Statistical Inference  
 
-**Product & Collaboration**  
-Agile · Trello · Monday.com  
+**Product & Collaboration**  Agile · Trello · Monday.com  
 
 ---
 
@@ -69,14 +62,12 @@ Agile · Trello · Monday.com
 
 ### Interests
 
-🎨 Art & Design — painting, singing, photography  
-🥾 Hiking & outdoor exploration  
-✈️ Traveling and discovering new cultures  
-🐱 Cat person — raising a ragdoll named **Sammy**
+* Art & Design — painting, singing, photography  
+* Hiking & outdoor exploration  
+* Traveling and discovering new cultures  
+* Cat person — raising a ragdoll named **Sammy**
 
 ---
-
-### Connect With Me
 
 ### Connect With Me
 
