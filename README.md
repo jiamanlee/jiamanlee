@@ -83,7 +83,7 @@ LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaman-li/)
 
 Resume  
-[Resume](https://docs.google.com/document/d/1t3STLmNfHkiKTXXvnsPePgBZ_cu-WaF3Pzz0LSh7ZUM/edit?usp=sharing)
+[Google Doc](https://docs.google.com/document/d/1t3STLmNfHkiKTXXvnsPePgBZ_cu-WaF3Pzz0LSh7ZUM/edit?usp=sharing)
 
 ---
 
