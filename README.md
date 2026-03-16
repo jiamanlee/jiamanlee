@@ -62,10 +62,10 @@ Product & Data Analyst (3+ yrs) building data-driven products and AI-assisted an
 
 ### Interests
 
-* Art & Design — painting, singing, photography  
-* Hiking & outdoor exploration  
+* Art & Design: painting, singing, photography  
+* Outdoor exploration: hiking, biking, diving  
 * Traveling and discovering new cultures  
-* Cat person — raising a ragdoll named **Sammy**
+* A cat person raises a ragdoll named **Sammy**
 
 ---
 
