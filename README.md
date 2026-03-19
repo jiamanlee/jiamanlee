@@ -56,7 +56,7 @@ Product & Data Analyst (3+ yrs) building data-driven products and AI-assisted an
 * **3+ years Product & Data Analyst**
 * **MS in Applied Analytics**, Columbia University  
 * **BS in Marketing (Marketing Analytics)**, Pennsylvania State University  
-* **Google Advanced Data Analyst & Google Data Analyst Certified**
+* **Google Advanced Data Analyst Certified**
 
 ---
 
