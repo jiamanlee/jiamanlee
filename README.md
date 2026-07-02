@@ -6,7 +6,10 @@ Product & Data Analyst (3+ yrs) building data-driven products and AI-assisted an
 
 ### Featured Projects
 
-- [2026 AI Business Insight Generator](https://github.com/jiamanlee/2026_AI_Business_Insight_Generator)  
+- [2026 AI Content Creation - Ads/Short-film](https://drive.google.com/file/d/1Bkbquh4b_pzKKCWD8HBI77gTMXILw_tB/view?usp=sharing)  
+  *(Seedance · Dreamnia AI · ChatGPT · CapCut · Midjourney · Runway)*
+
+  - [2026 AI Business Insight Generator](https://github.com/jiamanlee/2026_AI_Business_Insight_Generator)  
   *(Python · Streamlit · LLM · KPI Analysis · Business Diagnostics · Strategic Insights)*
 
 - [2025 WTD Analytics & Trend Tracker Dashboard](https://github.com/jiamanlee/2025_WTD_Analytics_and_Trend_Tracker_Dashboard)  
