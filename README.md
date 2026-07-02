@@ -6,7 +6,7 @@ Product & Data Analyst (3+ yrs) building data-driven products and AI-assisted an
 
 ### Featured Projects
 
-- [2026 AI Content Creation - Ads/Short-film](https://drive.google.com/file/d/1Bkbquh4b_pzKKCWD8HBI77gTMXILw_tB/view?usp=sharing)  
+- [2026 AI Content Creation - Ads/Short-film](https://drive.google.com/drive/folders/1Dj4JOlEelBEsp1kGZp4eyFFWQzlhw8Bg?usp=sharing)  
   *(Seedance · Dreamnia AI · ChatGPT · CapCut · Midjourney · Runway)*
 
 - [2026 AI Business Insight Generator](https://github.com/jiamanlee/2026_AI_Business_Insight_Generator)  
